@@ -41,10 +41,8 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about pr
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- **Portfolio:** [Visit My Website](https://nilay-rabha.github.io/Nilay-Rabha/)
-
----
+- GitHub:   https://github.com/sanjyotidas12
+  
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my coding journey.*
 
